@@ -27,10 +27,10 @@ The increasing use of social media among students and young adults has raised co
 ## 📂 Project Structure
 
 ```
-├── Stress.ipynb              # Main Jupyter Notebook (full pipeline)
+├── Stress_Level.ipynb              # Main Jupyter Notebook (full pipeline)
 ├── mental_health.csv         # Dataset
 ├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+└── Social_Media_Impact_on_Mental_Health # Google Colab Note Book
 ```
 
 ---
